@@ -1,0 +1,28 @@
+﻿<Window x:Class="lotto.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lotto"
+        mc:Ignorable="d"
+            Title="LOTTO" Height="450" Width="800" ResizeMode="NoResize">
+    <Window.Background>
+        <ImageBrush ImageSource="/lotto.png"  Opacity="0.4"/>
+    </Window.Background>
+    <Grid>
+        <Frame HorizontalAlignment="Center" VerticalAlignment="Center" Width="608" Height="329" BorderBrush="BlueViolet" BorderThickness="3">
+            <Frame.Content>
+                <Grid>
+                    <Label Content="LOSOWANIE LOTTO" HorizontalAlignment="Center" VerticalAlignment="Top" Height="75" Width="502"
+                       FontSize="48" FontWeight="Bold" Foreground="BlueViolet" Margin="0,10,0,0"/>
+
+                    <Button Content="LOSUJ" Height="64" FontSize="26"
+                        FontWeight="Bold" Foreground="BlueViolet" Click="Button_Click" Margin="50,130,380,129"/>
+
+                    <TextBlock x:Name="liczby" Height="64" FontSize="36"
+                           FontWeight="Bold" Foreground="BlueViolet" Margin="50,242,50,17" />
+                </Grid>
+            </Frame.Content>
+        </Frame>
+    </Grid>
+</Window>

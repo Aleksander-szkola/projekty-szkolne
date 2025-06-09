@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aleksander\\Desktop\\lotto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13A0F58C-F105-49F6-94C1-24B93E63CA15}|lotto\\lotto.csproj|c:\\users\\aleksander\\desktop\\lotto\\lotto\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13A0F58C-F105-49F6-94C1-24B93E63CA15}|lotto\\lotto.csproj|solutionrelative:lotto\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A0F58C-F105-49F6-94C1-24B93E63CA15}|lotto\\lotto.csproj|c:\\users\\aleksander\\desktop\\lotto\\lotto\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A0F58C-F105-49F6-94C1-24B93E63CA15}|lotto\\lotto.csproj|solutionrelative:lotto\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Aleksander\\Desktop\\lotto\\lotto\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "lotto\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Aleksander\\Desktop\\lotto\\lotto\\MainWindow.xaml",
+              "RelativeToolTip": "lotto\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-09T16:36:03.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksander\\Desktop\\lotto\\lotto\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "lotto\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Aleksander\\Desktop\\lotto\\lotto\\MainWindow.xaml.cs",
+              "RelativeToolTip": "lotto\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T16:36:02.039Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
