@@ -1,0 +1,14 @@
+C:\Users\Aleksander\Desktop\Projekty\C#\Console Apps\KontoBankowe\KontoBankowe\bin\Debug\net8.0\KontoBankowe.exe
+C:\Users\Aleksander\Desktop\Projekty\C#\Console Apps\KontoBankowe\KontoBankowe\bin\Debug\net8.0\KontoBankowe.deps.json
+C:\Users\Aleksander\Desktop\Projekty\C#\Console Apps\KontoBankowe\KontoBankowe\bin\Debug\net8.0\KontoBankowe.runtimeconfig.json
+C:\Users\Aleksander\Desktop\Projekty\C#\Console Apps\KontoBankowe\KontoBankowe\bin\Debug\net8.0\KontoBankowe.dll
+C:\Users\Aleksander\Desktop\Projekty\C#\Console Apps\KontoBankowe\KontoBankowe\bin\Debug\net8.0\KontoBankowe.pdb
+C:\Users\Aleksander\Desktop\Projekty\C#\Console Apps\KontoBankowe\KontoBankowe\obj\Debug\net8.0\KontoBankowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksander\Desktop\Projekty\C#\Console Apps\KontoBankowe\KontoBankowe\obj\Debug\net8.0\KontoBankowe.AssemblyInfoInputs.cache
+C:\Users\Aleksander\Desktop\Projekty\C#\Console Apps\KontoBankowe\KontoBankowe\obj\Debug\net8.0\KontoBankowe.AssemblyInfo.cs
+C:\Users\Aleksander\Desktop\Projekty\C#\Console Apps\KontoBankowe\KontoBankowe\obj\Debug\net8.0\KontoBankowe.csproj.CoreCompileInputs.cache
+C:\Users\Aleksander\Desktop\Projekty\C#\Console Apps\KontoBankowe\KontoBankowe\obj\Debug\net8.0\KontoBankowe.dll
+C:\Users\Aleksander\Desktop\Projekty\C#\Console Apps\KontoBankowe\KontoBankowe\obj\Debug\net8.0\refint\KontoBankowe.dll
+C:\Users\Aleksander\Desktop\Projekty\C#\Console Apps\KontoBankowe\KontoBankowe\obj\Debug\net8.0\KontoBankowe.pdb
+C:\Users\Aleksander\Desktop\Projekty\C#\Console Apps\KontoBankowe\KontoBankowe\obj\Debug\net8.0\KontoBankowe.genruntimeconfig.cache
+C:\Users\Aleksander\Desktop\Projekty\C#\Console Apps\KontoBankowe\KontoBankowe\obj\Debug\net8.0\ref\KontoBankowe.dll

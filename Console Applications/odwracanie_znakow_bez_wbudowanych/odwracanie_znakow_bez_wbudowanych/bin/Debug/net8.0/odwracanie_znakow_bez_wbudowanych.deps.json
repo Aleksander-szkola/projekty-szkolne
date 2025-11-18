@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "odwracanie_znakow_bez_wbudowanych/1.0.0": {
+        "runtime": {
+          "odwracanie_znakow_bez_wbudowanych.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "odwracanie_znakow_bez_wbudowanych/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

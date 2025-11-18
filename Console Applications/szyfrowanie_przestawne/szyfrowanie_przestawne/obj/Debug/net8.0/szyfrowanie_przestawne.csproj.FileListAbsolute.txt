@@ -1,0 +1,14 @@
+C:\Users\AleksanderGrochowski\Desktop\console apps\szyfrowanie_przestawne\szyfrowanie_przestawne\bin\Debug\net8.0\szyfrowanie_przestawne.exe
+C:\Users\AleksanderGrochowski\Desktop\console apps\szyfrowanie_przestawne\szyfrowanie_przestawne\bin\Debug\net8.0\szyfrowanie_przestawne.deps.json
+C:\Users\AleksanderGrochowski\Desktop\console apps\szyfrowanie_przestawne\szyfrowanie_przestawne\bin\Debug\net8.0\szyfrowanie_przestawne.runtimeconfig.json
+C:\Users\AleksanderGrochowski\Desktop\console apps\szyfrowanie_przestawne\szyfrowanie_przestawne\bin\Debug\net8.0\szyfrowanie_przestawne.dll
+C:\Users\AleksanderGrochowski\Desktop\console apps\szyfrowanie_przestawne\szyfrowanie_przestawne\bin\Debug\net8.0\szyfrowanie_przestawne.pdb
+C:\Users\AleksanderGrochowski\Desktop\console apps\szyfrowanie_przestawne\szyfrowanie_przestawne\obj\Debug\net8.0\szyfrowanie_przestawne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AleksanderGrochowski\Desktop\console apps\szyfrowanie_przestawne\szyfrowanie_przestawne\obj\Debug\net8.0\szyfrowanie_przestawne.AssemblyInfoInputs.cache
+C:\Users\AleksanderGrochowski\Desktop\console apps\szyfrowanie_przestawne\szyfrowanie_przestawne\obj\Debug\net8.0\szyfrowanie_przestawne.AssemblyInfo.cs
+C:\Users\AleksanderGrochowski\Desktop\console apps\szyfrowanie_przestawne\szyfrowanie_przestawne\obj\Debug\net8.0\szyfrowanie_przestawne.csproj.CoreCompileInputs.cache
+C:\Users\AleksanderGrochowski\Desktop\console apps\szyfrowanie_przestawne\szyfrowanie_przestawne\obj\Debug\net8.0\szyfrowanie_przestawne.dll
+C:\Users\AleksanderGrochowski\Desktop\console apps\szyfrowanie_przestawne\szyfrowanie_przestawne\obj\Debug\net8.0\refint\szyfrowanie_przestawne.dll
+C:\Users\AleksanderGrochowski\Desktop\console apps\szyfrowanie_przestawne\szyfrowanie_przestawne\obj\Debug\net8.0\szyfrowanie_przestawne.pdb
+C:\Users\AleksanderGrochowski\Desktop\console apps\szyfrowanie_przestawne\szyfrowanie_przestawne\obj\Debug\net8.0\szyfrowanie_przestawne.genruntimeconfig.cache
+C:\Users\AleksanderGrochowski\Desktop\console apps\szyfrowanie_przestawne\szyfrowanie_przestawne\obj\Debug\net8.0\ref\szyfrowanie_przestawne.dll

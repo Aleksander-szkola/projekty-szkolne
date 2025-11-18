@@ -1,0 +1,14 @@
+C:\Users\AleksanderGrochowski\Desktop\console apps\najwiekszy_ze_zbioru\najwiekszy_ze_zbioru\bin\Debug\net8.0\najwiekszy_ze_zbioru.exe
+C:\Users\AleksanderGrochowski\Desktop\console apps\najwiekszy_ze_zbioru\najwiekszy_ze_zbioru\bin\Debug\net8.0\najwiekszy_ze_zbioru.deps.json
+C:\Users\AleksanderGrochowski\Desktop\console apps\najwiekszy_ze_zbioru\najwiekszy_ze_zbioru\bin\Debug\net8.0\najwiekszy_ze_zbioru.runtimeconfig.json
+C:\Users\AleksanderGrochowski\Desktop\console apps\najwiekszy_ze_zbioru\najwiekszy_ze_zbioru\bin\Debug\net8.0\najwiekszy_ze_zbioru.dll
+C:\Users\AleksanderGrochowski\Desktop\console apps\najwiekszy_ze_zbioru\najwiekszy_ze_zbioru\bin\Debug\net8.0\najwiekszy_ze_zbioru.pdb
+C:\Users\AleksanderGrochowski\Desktop\console apps\najwiekszy_ze_zbioru\najwiekszy_ze_zbioru\obj\Debug\net8.0\najwiekszy_ze_zbioru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AleksanderGrochowski\Desktop\console apps\najwiekszy_ze_zbioru\najwiekszy_ze_zbioru\obj\Debug\net8.0\najwiekszy_ze_zbioru.AssemblyInfoInputs.cache
+C:\Users\AleksanderGrochowski\Desktop\console apps\najwiekszy_ze_zbioru\najwiekszy_ze_zbioru\obj\Debug\net8.0\najwiekszy_ze_zbioru.AssemblyInfo.cs
+C:\Users\AleksanderGrochowski\Desktop\console apps\najwiekszy_ze_zbioru\najwiekszy_ze_zbioru\obj\Debug\net8.0\najwiekszy_ze_zbioru.csproj.CoreCompileInputs.cache
+C:\Users\AleksanderGrochowski\Desktop\console apps\najwiekszy_ze_zbioru\najwiekszy_ze_zbioru\obj\Debug\net8.0\najwiekszy_ze_zbioru.dll
+C:\Users\AleksanderGrochowski\Desktop\console apps\najwiekszy_ze_zbioru\najwiekszy_ze_zbioru\obj\Debug\net8.0\refint\najwiekszy_ze_zbioru.dll
+C:\Users\AleksanderGrochowski\Desktop\console apps\najwiekszy_ze_zbioru\najwiekszy_ze_zbioru\obj\Debug\net8.0\najwiekszy_ze_zbioru.pdb
+C:\Users\AleksanderGrochowski\Desktop\console apps\najwiekszy_ze_zbioru\najwiekszy_ze_zbioru\obj\Debug\net8.0\najwiekszy_ze_zbioru.genruntimeconfig.cache
+C:\Users\AleksanderGrochowski\Desktop\console apps\najwiekszy_ze_zbioru\najwiekszy_ze_zbioru\obj\Debug\net8.0\ref\najwiekszy_ze_zbioru.dll

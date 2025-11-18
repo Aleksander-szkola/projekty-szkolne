@@ -1,0 +1,14 @@
+C:\Users\AleksanderGrochowski\Desktop\console apps\odwracanie_znakow\odwracanie_znakow\bin\Debug\net8.0\odwracanie_znakow.exe
+C:\Users\AleksanderGrochowski\Desktop\console apps\odwracanie_znakow\odwracanie_znakow\bin\Debug\net8.0\odwracanie_znakow.deps.json
+C:\Users\AleksanderGrochowski\Desktop\console apps\odwracanie_znakow\odwracanie_znakow\bin\Debug\net8.0\odwracanie_znakow.runtimeconfig.json
+C:\Users\AleksanderGrochowski\Desktop\console apps\odwracanie_znakow\odwracanie_znakow\bin\Debug\net8.0\odwracanie_znakow.dll
+C:\Users\AleksanderGrochowski\Desktop\console apps\odwracanie_znakow\odwracanie_znakow\bin\Debug\net8.0\odwracanie_znakow.pdb
+C:\Users\AleksanderGrochowski\Desktop\console apps\odwracanie_znakow\odwracanie_znakow\obj\Debug\net8.0\odwracanie_znakow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AleksanderGrochowski\Desktop\console apps\odwracanie_znakow\odwracanie_znakow\obj\Debug\net8.0\odwracanie_znakow.AssemblyInfoInputs.cache
+C:\Users\AleksanderGrochowski\Desktop\console apps\odwracanie_znakow\odwracanie_znakow\obj\Debug\net8.0\odwracanie_znakow.AssemblyInfo.cs
+C:\Users\AleksanderGrochowski\Desktop\console apps\odwracanie_znakow\odwracanie_znakow\obj\Debug\net8.0\odwracanie_znakow.csproj.CoreCompileInputs.cache
+C:\Users\AleksanderGrochowski\Desktop\console apps\odwracanie_znakow\odwracanie_znakow\obj\Debug\net8.0\odwracanie_znakow.dll
+C:\Users\AleksanderGrochowski\Desktop\console apps\odwracanie_znakow\odwracanie_znakow\obj\Debug\net8.0\refint\odwracanie_znakow.dll
+C:\Users\AleksanderGrochowski\Desktop\console apps\odwracanie_znakow\odwracanie_znakow\obj\Debug\net8.0\odwracanie_znakow.pdb
+C:\Users\AleksanderGrochowski\Desktop\console apps\odwracanie_znakow\odwracanie_znakow\obj\Debug\net8.0\odwracanie_znakow.genruntimeconfig.cache
+C:\Users\AleksanderGrochowski\Desktop\console apps\odwracanie_znakow\odwracanie_znakow\obj\Debug\net8.0\ref\odwracanie_znakow.dll

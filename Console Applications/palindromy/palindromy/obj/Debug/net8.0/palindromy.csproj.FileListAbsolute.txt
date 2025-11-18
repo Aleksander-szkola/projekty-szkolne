@@ -1,0 +1,14 @@
+C:\Users\AleksanderGrochowski\Desktop\console apps\palindromy\palindromy\bin\Debug\net8.0\palindromy.exe
+C:\Users\AleksanderGrochowski\Desktop\console apps\palindromy\palindromy\bin\Debug\net8.0\palindromy.deps.json
+C:\Users\AleksanderGrochowski\Desktop\console apps\palindromy\palindromy\bin\Debug\net8.0\palindromy.runtimeconfig.json
+C:\Users\AleksanderGrochowski\Desktop\console apps\palindromy\palindromy\bin\Debug\net8.0\palindromy.dll
+C:\Users\AleksanderGrochowski\Desktop\console apps\palindromy\palindromy\bin\Debug\net8.0\palindromy.pdb
+C:\Users\AleksanderGrochowski\Desktop\console apps\palindromy\palindromy\obj\Debug\net8.0\palindromy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AleksanderGrochowski\Desktop\console apps\palindromy\palindromy\obj\Debug\net8.0\palindromy.AssemblyInfoInputs.cache
+C:\Users\AleksanderGrochowski\Desktop\console apps\palindromy\palindromy\obj\Debug\net8.0\palindromy.AssemblyInfo.cs
+C:\Users\AleksanderGrochowski\Desktop\console apps\palindromy\palindromy\obj\Debug\net8.0\palindromy.csproj.CoreCompileInputs.cache
+C:\Users\AleksanderGrochowski\Desktop\console apps\palindromy\palindromy\obj\Debug\net8.0\palindromy.dll
+C:\Users\AleksanderGrochowski\Desktop\console apps\palindromy\palindromy\obj\Debug\net8.0\refint\palindromy.dll
+C:\Users\AleksanderGrochowski\Desktop\console apps\palindromy\palindromy\obj\Debug\net8.0\palindromy.pdb
+C:\Users\AleksanderGrochowski\Desktop\console apps\palindromy\palindromy\obj\Debug\net8.0\palindromy.genruntimeconfig.cache
+C:\Users\AleksanderGrochowski\Desktop\console apps\palindromy\palindromy\obj\Debug\net8.0\ref\palindromy.dll

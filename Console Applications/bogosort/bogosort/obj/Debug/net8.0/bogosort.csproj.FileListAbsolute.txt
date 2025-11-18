@@ -1,0 +1,14 @@
+C:\Users\AleksanderGrochowski\Desktop\console apps\bogosort\bogosort\bin\Debug\net8.0\bogosort.exe
+C:\Users\AleksanderGrochowski\Desktop\console apps\bogosort\bogosort\bin\Debug\net8.0\bogosort.deps.json
+C:\Users\AleksanderGrochowski\Desktop\console apps\bogosort\bogosort\bin\Debug\net8.0\bogosort.runtimeconfig.json
+C:\Users\AleksanderGrochowski\Desktop\console apps\bogosort\bogosort\bin\Debug\net8.0\bogosort.dll
+C:\Users\AleksanderGrochowski\Desktop\console apps\bogosort\bogosort\bin\Debug\net8.0\bogosort.pdb
+C:\Users\AleksanderGrochowski\Desktop\console apps\bogosort\bogosort\obj\Debug\net8.0\bogosort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AleksanderGrochowski\Desktop\console apps\bogosort\bogosort\obj\Debug\net8.0\bogosort.AssemblyInfoInputs.cache
+C:\Users\AleksanderGrochowski\Desktop\console apps\bogosort\bogosort\obj\Debug\net8.0\bogosort.AssemblyInfo.cs
+C:\Users\AleksanderGrochowski\Desktop\console apps\bogosort\bogosort\obj\Debug\net8.0\bogosort.csproj.CoreCompileInputs.cache
+C:\Users\AleksanderGrochowski\Desktop\console apps\bogosort\bogosort\obj\Debug\net8.0\bogosort.dll
+C:\Users\AleksanderGrochowski\Desktop\console apps\bogosort\bogosort\obj\Debug\net8.0\refint\bogosort.dll
+C:\Users\AleksanderGrochowski\Desktop\console apps\bogosort\bogosort\obj\Debug\net8.0\bogosort.pdb
+C:\Users\AleksanderGrochowski\Desktop\console apps\bogosort\bogosort\obj\Debug\net8.0\bogosort.genruntimeconfig.cache
+C:\Users\AleksanderGrochowski\Desktop\console apps\bogosort\bogosort\obj\Debug\net8.0\ref\bogosort.dll

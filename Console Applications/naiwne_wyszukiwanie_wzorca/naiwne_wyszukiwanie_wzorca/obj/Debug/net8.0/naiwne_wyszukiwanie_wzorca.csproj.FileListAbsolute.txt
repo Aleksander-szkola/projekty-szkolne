@@ -1,0 +1,14 @@
+C:\Users\AleksanderGrochowski\Desktop\console apps\naiwne_wyszukiwanie_wzorca\naiwne_wyszukiwanie_wzorca\bin\Debug\net8.0\naiwne_wyszukiwanie_wzorca.exe
+C:\Users\AleksanderGrochowski\Desktop\console apps\naiwne_wyszukiwanie_wzorca\naiwne_wyszukiwanie_wzorca\bin\Debug\net8.0\naiwne_wyszukiwanie_wzorca.deps.json
+C:\Users\AleksanderGrochowski\Desktop\console apps\naiwne_wyszukiwanie_wzorca\naiwne_wyszukiwanie_wzorca\bin\Debug\net8.0\naiwne_wyszukiwanie_wzorca.runtimeconfig.json
+C:\Users\AleksanderGrochowski\Desktop\console apps\naiwne_wyszukiwanie_wzorca\naiwne_wyszukiwanie_wzorca\bin\Debug\net8.0\naiwne_wyszukiwanie_wzorca.dll
+C:\Users\AleksanderGrochowski\Desktop\console apps\naiwne_wyszukiwanie_wzorca\naiwne_wyszukiwanie_wzorca\bin\Debug\net8.0\naiwne_wyszukiwanie_wzorca.pdb
+C:\Users\AleksanderGrochowski\Desktop\console apps\naiwne_wyszukiwanie_wzorca\naiwne_wyszukiwanie_wzorca\obj\Debug\net8.0\naiwne_wyszukiwanie_wzorca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AleksanderGrochowski\Desktop\console apps\naiwne_wyszukiwanie_wzorca\naiwne_wyszukiwanie_wzorca\obj\Debug\net8.0\naiwne_wyszukiwanie_wzorca.AssemblyInfoInputs.cache
+C:\Users\AleksanderGrochowski\Desktop\console apps\naiwne_wyszukiwanie_wzorca\naiwne_wyszukiwanie_wzorca\obj\Debug\net8.0\naiwne_wyszukiwanie_wzorca.AssemblyInfo.cs
+C:\Users\AleksanderGrochowski\Desktop\console apps\naiwne_wyszukiwanie_wzorca\naiwne_wyszukiwanie_wzorca\obj\Debug\net8.0\naiwne_wyszukiwanie_wzorca.csproj.CoreCompileInputs.cache
+C:\Users\AleksanderGrochowski\Desktop\console apps\naiwne_wyszukiwanie_wzorca\naiwne_wyszukiwanie_wzorca\obj\Debug\net8.0\naiwne_wyszukiwanie_wzorca.dll
+C:\Users\AleksanderGrochowski\Desktop\console apps\naiwne_wyszukiwanie_wzorca\naiwne_wyszukiwanie_wzorca\obj\Debug\net8.0\refint\naiwne_wyszukiwanie_wzorca.dll
+C:\Users\AleksanderGrochowski\Desktop\console apps\naiwne_wyszukiwanie_wzorca\naiwne_wyszukiwanie_wzorca\obj\Debug\net8.0\naiwne_wyszukiwanie_wzorca.pdb
+C:\Users\AleksanderGrochowski\Desktop\console apps\naiwne_wyszukiwanie_wzorca\naiwne_wyszukiwanie_wzorca\obj\Debug\net8.0\naiwne_wyszukiwanie_wzorca.genruntimeconfig.cache
+C:\Users\AleksanderGrochowski\Desktop\console apps\naiwne_wyszukiwanie_wzorca\naiwne_wyszukiwanie_wzorca\obj\Debug\net8.0\ref\naiwne_wyszukiwanie_wzorca.dll

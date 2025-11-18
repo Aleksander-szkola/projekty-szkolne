@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AleksanderGrochowski\\Desktop\\console apps\\naiwne_wyszukiwanie_wzorca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C27E3C3-B9E1-4ED9-82D3-2BB238B3A00F}|naiwne_wyszukiwanie_wzorca\\naiwne_wyszukiwanie_wzorca.csproj|c:\\users\\aleksandergrochowski\\desktop\\console apps\\naiwne_wyszukiwanie_wzorca\\naiwne_wyszukiwanie_wzorca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C27E3C3-B9E1-4ED9-82D3-2BB238B3A00F}|naiwne_wyszukiwanie_wzorca\\naiwne_wyszukiwanie_wzorca.csproj|solutionrelative:naiwne_wyszukiwanie_wzorca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AleksanderGrochowski\\Desktop\\console apps\\naiwne_wyszukiwanie_wzorca\\naiwne_wyszukiwanie_wzorca\\Program.cs",
+              "RelativeDocumentMoniker": "naiwne_wyszukiwanie_wzorca\\Program.cs",
+              "ToolTip": "C:\\Users\\AleksanderGrochowski\\Desktop\\console apps\\naiwne_wyszukiwanie_wzorca\\naiwne_wyszukiwanie_wzorca\\Program.cs",
+              "RelativeToolTip": "naiwne_wyszukiwanie_wzorca\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwB8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:25:45.292Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

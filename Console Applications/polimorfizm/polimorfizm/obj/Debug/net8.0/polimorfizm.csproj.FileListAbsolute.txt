@@ -1,0 +1,14 @@
+C:\Users\Aleksander\Desktop\Projekty\C#\Console Apps\polimorfizm\polimorfizm\bin\Debug\net8.0\polimorfizm.exe
+C:\Users\Aleksander\Desktop\Projekty\C#\Console Apps\polimorfizm\polimorfizm\bin\Debug\net8.0\polimorfizm.deps.json
+C:\Users\Aleksander\Desktop\Projekty\C#\Console Apps\polimorfizm\polimorfizm\bin\Debug\net8.0\polimorfizm.runtimeconfig.json
+C:\Users\Aleksander\Desktop\Projekty\C#\Console Apps\polimorfizm\polimorfizm\bin\Debug\net8.0\polimorfizm.dll
+C:\Users\Aleksander\Desktop\Projekty\C#\Console Apps\polimorfizm\polimorfizm\bin\Debug\net8.0\polimorfizm.pdb
+C:\Users\Aleksander\Desktop\Projekty\C#\Console Apps\polimorfizm\polimorfizm\obj\Debug\net8.0\polimorfizm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksander\Desktop\Projekty\C#\Console Apps\polimorfizm\polimorfizm\obj\Debug\net8.0\polimorfizm.AssemblyInfoInputs.cache
+C:\Users\Aleksander\Desktop\Projekty\C#\Console Apps\polimorfizm\polimorfizm\obj\Debug\net8.0\polimorfizm.AssemblyInfo.cs
+C:\Users\Aleksander\Desktop\Projekty\C#\Console Apps\polimorfizm\polimorfizm\obj\Debug\net8.0\polimorfizm.csproj.CoreCompileInputs.cache
+C:\Users\Aleksander\Desktop\Projekty\C#\Console Apps\polimorfizm\polimorfizm\obj\Debug\net8.0\polimorfizm.dll
+C:\Users\Aleksander\Desktop\Projekty\C#\Console Apps\polimorfizm\polimorfizm\obj\Debug\net8.0\refint\polimorfizm.dll
+C:\Users\Aleksander\Desktop\Projekty\C#\Console Apps\polimorfizm\polimorfizm\obj\Debug\net8.0\polimorfizm.pdb
+C:\Users\Aleksander\Desktop\Projekty\C#\Console Apps\polimorfizm\polimorfizm\obj\Debug\net8.0\polimorfizm.genruntimeconfig.cache
+C:\Users\Aleksander\Desktop\Projekty\C#\Console Apps\polimorfizm\polimorfizm\obj\Debug\net8.0\ref\polimorfizm.dll

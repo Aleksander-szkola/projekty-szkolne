@@ -1,0 +1,14 @@
+C:\Users\AleksanderGrochowski\Desktop\console apps\szyfr_cezara\szyfr_cezara\bin\Debug\net8.0\szyfr_cezara.exe
+C:\Users\AleksanderGrochowski\Desktop\console apps\szyfr_cezara\szyfr_cezara\bin\Debug\net8.0\szyfr_cezara.deps.json
+C:\Users\AleksanderGrochowski\Desktop\console apps\szyfr_cezara\szyfr_cezara\bin\Debug\net8.0\szyfr_cezara.runtimeconfig.json
+C:\Users\AleksanderGrochowski\Desktop\console apps\szyfr_cezara\szyfr_cezara\bin\Debug\net8.0\szyfr_cezara.dll
+C:\Users\AleksanderGrochowski\Desktop\console apps\szyfr_cezara\szyfr_cezara\bin\Debug\net8.0\szyfr_cezara.pdb
+C:\Users\AleksanderGrochowski\Desktop\console apps\szyfr_cezara\szyfr_cezara\obj\Debug\net8.0\szyfr_cezara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AleksanderGrochowski\Desktop\console apps\szyfr_cezara\szyfr_cezara\obj\Debug\net8.0\szyfr_cezara.AssemblyInfoInputs.cache
+C:\Users\AleksanderGrochowski\Desktop\console apps\szyfr_cezara\szyfr_cezara\obj\Debug\net8.0\szyfr_cezara.AssemblyInfo.cs
+C:\Users\AleksanderGrochowski\Desktop\console apps\szyfr_cezara\szyfr_cezara\obj\Debug\net8.0\szyfr_cezara.csproj.CoreCompileInputs.cache
+C:\Users\AleksanderGrochowski\Desktop\console apps\szyfr_cezara\szyfr_cezara\obj\Debug\net8.0\szyfr_cezara.dll
+C:\Users\AleksanderGrochowski\Desktop\console apps\szyfr_cezara\szyfr_cezara\obj\Debug\net8.0\refint\szyfr_cezara.dll
+C:\Users\AleksanderGrochowski\Desktop\console apps\szyfr_cezara\szyfr_cezara\obj\Debug\net8.0\szyfr_cezara.pdb
+C:\Users\AleksanderGrochowski\Desktop\console apps\szyfr_cezara\szyfr_cezara\obj\Debug\net8.0\szyfr_cezara.genruntimeconfig.cache
+C:\Users\AleksanderGrochowski\Desktop\console apps\szyfr_cezara\szyfr_cezara\obj\Debug\net8.0\ref\szyfr_cezara.dll

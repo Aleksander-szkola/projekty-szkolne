@@ -1,0 +1,16 @@
+C:\Users\Aleksander\Desktop\Projekty\C#\Forms\Zadanie_03-układ równań liniowych\Zadanie_03-układ równań liniowych\bin\Debug\net8.0-windows\Zadanie_03-układ równań liniowych.exe
+C:\Users\Aleksander\Desktop\Projekty\C#\Forms\Zadanie_03-układ równań liniowych\Zadanie_03-układ równań liniowych\bin\Debug\net8.0-windows\Zadanie_03-układ równań liniowych.deps.json
+C:\Users\Aleksander\Desktop\Projekty\C#\Forms\Zadanie_03-układ równań liniowych\Zadanie_03-układ równań liniowych\bin\Debug\net8.0-windows\Zadanie_03-układ równań liniowych.runtimeconfig.json
+C:\Users\Aleksander\Desktop\Projekty\C#\Forms\Zadanie_03-układ równań liniowych\Zadanie_03-układ równań liniowych\bin\Debug\net8.0-windows\Zadanie_03-układ równań liniowych.dll
+C:\Users\Aleksander\Desktop\Projekty\C#\Forms\Zadanie_03-układ równań liniowych\Zadanie_03-układ równań liniowych\bin\Debug\net8.0-windows\Zadanie_03-układ równań liniowych.pdb
+C:\Users\Aleksander\Desktop\Projekty\C#\Forms\Zadanie_03-układ równań liniowych\Zadanie_03-układ równań liniowych\obj\Debug\net8.0-windows\Zadanie_03_układ_równań_liniowych.Form1.resources
+C:\Users\Aleksander\Desktop\Projekty\C#\Forms\Zadanie_03-układ równań liniowych\Zadanie_03-układ równań liniowych\obj\Debug\net8.0-windows\Zadanie_03-układ równań liniowych.csproj.GenerateResource.cache
+C:\Users\Aleksander\Desktop\Projekty\C#\Forms\Zadanie_03-układ równań liniowych\Zadanie_03-układ równań liniowych\obj\Debug\net8.0-windows\Zadanie_03-układ równań liniowych.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksander\Desktop\Projekty\C#\Forms\Zadanie_03-układ równań liniowych\Zadanie_03-układ równań liniowych\obj\Debug\net8.0-windows\Zadanie_03-układ równań liniowych.AssemblyInfoInputs.cache
+C:\Users\Aleksander\Desktop\Projekty\C#\Forms\Zadanie_03-układ równań liniowych\Zadanie_03-układ równań liniowych\obj\Debug\net8.0-windows\Zadanie_03-układ równań liniowych.AssemblyInfo.cs
+C:\Users\Aleksander\Desktop\Projekty\C#\Forms\Zadanie_03-układ równań liniowych\Zadanie_03-układ równań liniowych\obj\Debug\net8.0-windows\Zadanie_03-układ równań liniowych.csproj.CoreCompileInputs.cache
+C:\Users\Aleksander\Desktop\Projekty\C#\Forms\Zadanie_03-układ równań liniowych\Zadanie_03-układ równań liniowych\obj\Debug\net8.0-windows\Zadanie_03-układ równań liniowych.dll
+C:\Users\Aleksander\Desktop\Projekty\C#\Forms\Zadanie_03-układ równań liniowych\Zadanie_03-układ równań liniowych\obj\Debug\net8.0-windows\refint\Zadanie_03-układ równań liniowych.dll
+C:\Users\Aleksander\Desktop\Projekty\C#\Forms\Zadanie_03-układ równań liniowych\Zadanie_03-układ równań liniowych\obj\Debug\net8.0-windows\Zadanie_03-układ równań liniowych.pdb
+C:\Users\Aleksander\Desktop\Projekty\C#\Forms\Zadanie_03-układ równań liniowych\Zadanie_03-układ równań liniowych\obj\Debug\net8.0-windows\Zadanie_03-układ równań liniowych.genruntimeconfig.cache
+C:\Users\Aleksander\Desktop\Projekty\C#\Forms\Zadanie_03-układ równań liniowych\Zadanie_03-układ równań liniowych\obj\Debug\net8.0-windows\ref\Zadanie_03-układ równań liniowych.dll
