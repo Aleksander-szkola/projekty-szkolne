@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Olek\\Desktop\\tesst\\szkolny-20250318T183337Z-001\\szkolny\\AG-nr.06\\Struktura\u0026Lista - AG-nr.06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90E9F345-9752-4927-A2E5-4774EFF7D1E4}|Struktura\u0026Lista - AG-nr.06\\Struktura\u0026Lista - AG-nr.06.csproj|c:\\users\\olek\\desktop\\tesst\\szkolny-20250318t183337z-001\\szkolny\\ag-nr.06\\struktura\u0026lista - ag-nr.06\\struktura\u0026lista - ag-nr.06\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E9F345-9752-4927-A2E5-4774EFF7D1E4}|Struktura\u0026Lista - AG-nr.06\\Struktura\u0026Lista - AG-nr.06.csproj|solutionrelative:struktura\u0026lista - ag-nr.06\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E9F345-9752-4927-A2E5-4774EFF7D1E4}|Struktura\u0026Lista - AG-nr.06\\Struktura\u0026Lista - AG-nr.06.csproj|C:\\Users\\Olek\\Desktop\\tesst\\szkolny-20250318T183337Z-001\\szkolny\\AG-nr.06\\Struktura\u0026Lista - AG-nr.06\\struktura\u0026lista - ag-nr.06\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90E9F345-9752-4927-A2E5-4774EFF7D1E4}|Struktura\u0026Lista - AG-nr.06\\Struktura\u0026Lista - AG-nr.06.csproj|solutionrelative:struktura\u0026lista - ag-nr.06\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E9F345-9752-4927-A2E5-4774EFF7D1E4}|Struktura\u0026Lista - AG-nr.06\\Struktura\u0026Lista - AG-nr.06.csproj|C:\\Users\\Olek\\Desktop\\tesst\\szkolny-20250318T183337Z-001\\szkolny\\AG-nr.06\\Struktura\u0026Lista - AG-nr.06\\struktura\u0026lista - ag-nr.06\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E9F345-9752-4927-A2E5-4774EFF7D1E4}|Struktura\u0026Lista - AG-nr.06\\Struktura\u0026Lista - AG-nr.06.csproj|solutionrelative:struktura\u0026lista - ag-nr.06\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Olek\\Desktop\\tesst\\szkolny-20250318T183337Z-001\\szkolny\\AG-nr.06\\Struktura\u0026Lista - AG-nr.06\\Struktura\u0026Lista - AG-nr.06\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Struktura\u0026Lista - AG-nr.06\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Olek\\Desktop\\tesst\\szkolny-20250318T183337Z-001\\szkolny\\AG-nr.06\\Struktura\u0026Lista - AG-nr.06\\Struktura\u0026Lista - AG-nr.06\\Form1.Designer.cs",
+              "RelativeToolTip": "Struktura\u0026Lista - AG-nr.06\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T12:28:19.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Olek\\Desktop\\tesst\\szkolny-20250318T183337Z-001\\szkolny\\AG-nr.06\\Struktura\u0026Lista - AG-nr.06\\Struktura\u0026Lista - AG-nr.06\\Form1.cs",
+              "RelativeDocumentMoniker": "Struktura\u0026Lista - AG-nr.06\\Form1.cs",
+              "ToolTip": "C:\\Users\\Olek\\Desktop\\tesst\\szkolny-20250318T183337Z-001\\szkolny\\AG-nr.06\\Struktura\u0026Lista - AG-nr.06\\Struktura\u0026Lista - AG-nr.06\\Form1.cs",
+              "RelativeToolTip": "Struktura\u0026Lista - AG-nr.06\\Form1.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T11:48:04.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\Olek\\Desktop\\tesst\\szkolny-20250318T183337Z-001\\szkolny\\AG-nr.06\\Struktura\u0026Lista - AG-nr.06\\Struktura\u0026Lista - AG-nr.06\\Form1.cs",
+              "RelativeDocumentMoniker": "Struktura\u0026Lista - AG-nr.06\\Form1.cs",
+              "ToolTip": "C:\\Users\\Olek\\Desktop\\kurtwa\\szkolny-20250318T183337Z-001\\szkolny\\AG-nr.06\\Struktura\u0026Lista - AG-nr.06\\Struktura\u0026Lista - AG-nr.06\\Form1.cs [Projekt]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\kurtwa\\szkolny-20250318T183337Z-001\\szkolny\\AG-nr.06\\Struktura\u0026Lista - AG-nr.06\\Struktura\u0026Lista - AG-nr.06\\Form1.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T11:35:21.633Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
@@ -23,3 +24,30 @@ Global
 		SolutionGuid = {A6CD1869-7C9F-4738-9BB6-BCA0AED5DFCF}
 	EndGlobalSection
 EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lotto", "lotto\lotto.csproj", "{13A0F58C-F105-49F6-94C1-24B93E63CA15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13A0F58C-F105-49F6-94C1-24B93E63CA15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13A0F58C-F105-49F6-94C1-24B93E63CA15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13A0F58C-F105-49F6-94C1-24B93E63CA15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13A0F58C-F105-49F6-94C1-24B93E63CA15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF988FDD-0196-43EB-A628-65EDF3B55669}
+	EndGlobalSection
+EndGlobal
+>>>>>>> 10cf5940fb27aec9e6b52bb6d2a5b8142cc85bee

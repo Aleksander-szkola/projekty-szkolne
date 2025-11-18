@@ -1,9 +1,16 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\AleksanderGrochowski\\Desktop\\console apps\\palindromy\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{9A6A72D9-AA76-4F2F-ABE2-ADE5C6A42231}|palindromy\\palindromy.csproj|c:\\users\\aleksandergrochowski\\desktop\\console apps\\palindromy\\palindromy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+  "WorkspaceRootPath": "C:\\Users\\Olek\\Desktop\\palindromy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6A72D9-AA76-4F2F-ABE2-ADE5C6A42231}|palindromy\\palindromy.csproj|c:\\users\\olek\\desktop\\palindromy\\palindromy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> 10cf5940fb27aec9e6b52bb6d2a5b8142cc85bee
       "RelativeMoniker": "D:0:0:{9A6A72D9-AA76-4F2F-ABE2-ADE5C6A42231}|palindromy\\palindromy.csproj|solutionrelative:palindromy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +27,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+<<<<<<< HEAD
               "DocumentMoniker": "C:\\Users\\AleksanderGrochowski\\Desktop\\console apps\\palindromy\\palindromy\\Program.cs",
               "RelativeDocumentMoniker": "palindromy\\Program.cs",
               "ToolTip": "C:\\Users\\AleksanderGrochowski\\Desktop\\console apps\\palindromy\\palindromy\\Program.cs",
               "RelativeToolTip": "palindromy\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAACAAAAAAAAAA==",
+=======
+              "DocumentMoniker": "C:\\Users\\Olek\\Desktop\\palindromy\\palindromy\\Program.cs",
+              "RelativeDocumentMoniker": "palindromy\\Program.cs",
+              "ToolTip": "C:\\Users\\Olek\\Desktop\\palindromy\\palindromy\\Program.cs",
+              "RelativeToolTip": "palindromy\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+>>>>>>> 10cf5940fb27aec9e6b52bb6d2a5b8142cc85bee
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T07:11:41.046Z",
               "EditorCaption": ""
